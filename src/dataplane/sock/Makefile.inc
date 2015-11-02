@@ -1,3 +1,0 @@
-#
-
-DATAPATHSRCS += sock.c
